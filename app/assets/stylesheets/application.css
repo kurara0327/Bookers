@@ -1,0 +1,21 @@
+body {
+	margin: 33px;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+}
+
+p {
+	margin: 33px;
+}
+
+.field, .actions {
+	margin-bottom: 10px;
+}
+label {
+	display: block;
+}
+
+#notice {
+	color: green;
+}
